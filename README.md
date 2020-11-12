@@ -5,4 +5,4 @@ Android game
 
 Made with https://unity.com/
 
-For older versions of Android
+Not tested on newer versions of Android
